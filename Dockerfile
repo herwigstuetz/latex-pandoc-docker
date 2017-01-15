@@ -4,6 +4,7 @@ MAINTAINER herwig@herwigstuetz.com
 RUN apt-get update \
   && apt-get install -y \
   texlive-latex-recommended \
+  texlive-fonts-recommended \
   latexmk \
   wget \
   git \
