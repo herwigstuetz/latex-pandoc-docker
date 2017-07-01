@@ -12,6 +12,7 @@ RUN apt-get update \
   texlive-fonts-recommended \
   texlive-latex-extra \
   texlive-bibtex-extra \
+  texlive-science \
   latexmk \
   wget \
   git \
